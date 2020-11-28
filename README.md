@@ -1,6 +1,6 @@
 <p><img align="center" src="./mybanner.jpg" alt=""/></p>
 
-<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://sonbui.net">Jason Bui</a>  - FrontEnd Engineer</h1>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://sonbui.net">Son Bui</a>  - FrontEnd Engineer</h1>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
